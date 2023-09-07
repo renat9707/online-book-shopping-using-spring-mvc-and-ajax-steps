@@ -15,6 +15,7 @@
 	<description>Bookshopping project for developia </description>
 	<properties>
 		<java.version>17</java.version>
+		<maven-jar-plugins.version>3.1.3</maven-jar-plugins.version>
 	</properties>
 	<dependencies>
 		<dependency>
