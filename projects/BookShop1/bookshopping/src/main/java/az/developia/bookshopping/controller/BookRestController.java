@@ -12,7 +12,7 @@ import java.util.List;
 
 
 @RestController
-@RequestMapping(path = "/books")
+@RequestMapping(path = "/rest/books")
 public class BookRestController {
     @Autowired
     private BookDao bookDao;
